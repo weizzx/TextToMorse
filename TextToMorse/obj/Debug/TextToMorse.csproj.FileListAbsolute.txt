@@ -1,0 +1,7 @@
+C:\Users\bobru\Desktop\TextToMorse\TextToMorse\bin\Debug\TextToMorse.exe.config
+C:\Users\bobru\Desktop\TextToMorse\TextToMorse\bin\Debug\TextToMorse.exe
+C:\Users\bobru\Desktop\TextToMorse\TextToMorse\bin\Debug\TextToMorse.pdb
+C:\Users\bobru\Desktop\TextToMorse\TextToMorse\obj\Debug\TextToMorse.csproj.AssemblyReference.cache
+C:\Users\bobru\Desktop\TextToMorse\TextToMorse\obj\Debug\TextToMorse.csproj.CoreCompileInputs.cache
+C:\Users\bobru\Desktop\TextToMorse\TextToMorse\obj\Debug\TextToMorse.exe
+C:\Users\bobru\Desktop\TextToMorse\TextToMorse\obj\Debug\TextToMorse.pdb
