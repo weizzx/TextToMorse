@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToMorse", "TextToMorse\TextToMorse.csproj", "{CEC05157-9FF9-4C46-AE54-A4413E293283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC05157-9FF9-4C46-AE54-A4413E293283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC05157-9FF9-4C46-AE54-A4413E293283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC05157-9FF9-4C46-AE54-A4413E293283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC05157-9FF9-4C46-AE54-A4413E293283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BEC40F-E4D7-4A62-A848-9453AE551E02}
+	EndGlobalSection
+EndGlobal
